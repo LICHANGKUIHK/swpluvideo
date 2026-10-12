@@ -1,0 +1,14 @@
+[
+  {
+    "id": "project-intro",
+    "title": "项目简介视频",
+    "description": "快速了解实验定位、课程特色、技术手段与应用情况。",
+    "url": ""
+  },
+  {
+    "id": "teaching-guide",
+    "title": "教学引导视频",
+    "description": "按教学顺序了解实验目标、操作流程、关键步骤与注意事项。",
+    "url": ""
+  }
+]

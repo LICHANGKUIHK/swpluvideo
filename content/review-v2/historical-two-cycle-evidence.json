@@ -1,0 +1,21 @@
+{
+  "title": "渝新欧课程五次开设与教学应用汇总",
+  "sourceLabel": "2026年重庆市一流本科课程申报书9.2定稿",
+  "sourceDate": "2026-09-02",
+  "localLaunchDate": "2023-09-20",
+  "socialOpenDate": "2024-08-01",
+  "onCampusServed": 743,
+  "externalServed": 580,
+  "socialLearners": 360,
+  "teachingCycleCount": 2,
+  "teachingPlanLearners": 600,
+  "majorCount": 4,
+  "majors": ["国际经济与贸易", "数字贸易", "数字经济", "经济统计学"],
+  "offeringRounds": [
+    { "id": "2024-05", "label": "2024年5月", "students": 72 },
+    { "id": "2024-10", "label": "2024年10月", "students": 81 },
+    { "id": "2025-05", "label": "2025年5月", "students": 303 },
+    { "id": "2025-10", "label": "2025年10月", "students": 82 },
+    { "id": "2026-05", "label": "2026年5月", "students": 205 }
+  ]
+}
